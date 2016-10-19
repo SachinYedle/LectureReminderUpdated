@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionBar</string>
+    <string name="search">Search</string>
+    <string name="call">Call</string>
+    <string name="cancel">Cancel</string>
+
+</resources>

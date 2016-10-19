@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DataStorageDemo</string>
+    <string name="activity">Next Activity</string>
+    <string name="True">true</string>
+    <string name="False">false</string>
+    <string name="name">String Name</string>
+    <string name="age">Int Age</string>
+    <string name="avg">Float Avg</string>
+    <string name="Value">Long Value</string>
+    <string name="flag">Boolean Flag</string>
+</resources>

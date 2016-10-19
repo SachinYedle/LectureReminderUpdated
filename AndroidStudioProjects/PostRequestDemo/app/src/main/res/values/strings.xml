@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PostRequestDemo</string>
+    <string name="login">Please Login here..</string>
+    <string name="email">Username</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+</resources>

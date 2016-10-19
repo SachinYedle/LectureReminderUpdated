@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:IntentAssignment="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/hi"
+        android:icon="@drawable/hi_bye"
+        android:title="@string/title_hi"
+        IntentAssignment:showAsAction="always"/>
+    <item android:id="@+id/bye"
+        android:icon="@drawable/hi_bye"
+        android:title="@string/title_bye" />
+</menu>
+

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.admin1.firstapp.FrameLayout">
+    <ImageView
+        android:src="@drawable/background"
+        android:scaleType="fitXY"
+        android:cropToPadding="true"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:background="#FFFFFF"
+
+        android:textColorHint="#B4526E"
+        android:hint=" Enter Name:" />
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/city"
+        android:hint="Enter City:"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#B4526E"
+        android:layout_gravity="top|right"/>
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:ems="10"
+        android:id="@+id/phone"
+        android:hint="Phone:"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#B4526E"
+        android:layout_gravity="center|left"/>
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Accept Terms And Conditions"
+        android:id="@+id/checkBox"
+        android:textColor="#FFFFFF"
+        android:buttonTint="#FFFFFF"
+        android:layout_gravity="bottom|left"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Submit"
+        android:id="@+id/submit"
+        android:onClick="callToGrid"
+        android:layout_gravity="bottom|right"/>
+</FrameLayout>

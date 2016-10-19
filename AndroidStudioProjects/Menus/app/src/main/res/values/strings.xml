@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menus</string>
+    <string name="title_hi">Hii</string>
+    <string name="title_bye">Bye</string>
+    <string name="r_one">Image-I</string>
+    <string name="r_two">Image-II</string>
+    <string name="show_pop_up">Pop up</string>
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="red">Red</string>
+    <string name="blue">Blue</string>
+    <string name="action_mode">Action Mode</string>
+
+
+</resources>

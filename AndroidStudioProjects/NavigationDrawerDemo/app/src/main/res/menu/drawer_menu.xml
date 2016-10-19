@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/first_fragment"
+            android:title="@string/button"
+            android:icon="@drawable/image1"/>
+        <item android:id="@+id/second_fragment"
+            android:title="@string/textview"
+            android:icon="@drawable/image3"/>
+        <item android:id="@+id/third_fragment"
+            android:title="@string/imageview"
+            android:icon="@drawable/image4"/>
+    </group>
+    <item android:title="SubItems">
+        <menu>
+            <group android:checkableBehavior="single">
+            <item android:title="@string/sub_item" />
+            <item android:title="@string/sub_item2"/>
+            </group>
+        </menu>
+    </item>
+</menu>

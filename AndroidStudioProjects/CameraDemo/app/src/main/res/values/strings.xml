@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraDemo</string>
+    <string name="button_text">Click Picture</string>
+    <string name="gallery_button_text">Take pic from Gallery</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin1.sharemessage">
+
+    <permission android:name="com.example.READ_TEXT"
+        android:label="my_permission"
+        android:protectionLevel="dangerous"></permission>
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:permission="com.example.READ_TEXT">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="com.example.admin1.impliciteintent.TEXT_READ" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="text/plain"/>
+
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

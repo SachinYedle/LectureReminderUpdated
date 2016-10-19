@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GreenDaoDemo</string>
+    <string name="rollno">RollNo: </string>
+    <string name="name">Name: </string>
+    <string name="submit">Submit</string>
+    <string name="display_data">Display Data</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
