@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9d9165218ea864a3326b0dfc1f37539944358c8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_119de5c132909a1ac1f812cab27f5831acbef7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_8606d02d3475fe6ff3be8b422a430d3a9e9a1250.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_b4bb6ea0c866b59f6d0f46d18c46fdb8fcf8c34a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9f31721f20b6b8f035f31e19dd9a38f26bb017d7">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/instant-run_8ca5fafab08fc6df39f7c3ebc3d7a6a0a5c70080.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_349aa2e2bef72f66f96ab0e6b4d8a1663d9ec1ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_a3a3abfdb8c383392402a2f375a540667ba1c625.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_191414f837e96d6a8addd64c329b770cdcc532f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_0af10a9a550d105ec5172128b756d5f4daab0430.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_4e2001a3f8cff0a923f00a0af50756de833e81da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_7d940a5142563c2548388efc265732bec4860bd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_27b4e7ce0f7211381a668fe3a86d02103d00cf83.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_388ad819719d632731155478dd350f59a72eb644.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_70727e5908fb0ff322c6d5b7138e4f76b834bfd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4d6247da8662cc979f670fd9af68ccf36041ede8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4a4d02485a1b75b7edd694a66711117b3aef66ac">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_6602065e94dc3d8f3e862fece92688782fecda27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_6a42c01d6f49fea2fe4b6ea0515b520cfa93136d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_3952a9f4d5c156e32ba12bdeca98724c582fcc17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_1e00c4135e5244e6ee302ca4242283e008d5a967.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_06074a8d0821203f65cf824c1320d557e54b12ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_7eac02097352f00dfa4a58537723882613f4ff39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/.gradle/caches/modules-2/files-2.1/de.greenrobot/greendao/2.1.0/9414c1d4578673dac83a23119009624fd695726d/greendao-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9414c1d4578673dac83a23119009624fd695726d">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/greendao-2.1.0_1da22f8d66a79920788124ae0836d996db729b93.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_fc5bd3d9ebd4eed57948abb22944b0c6d6a05b6e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3281d06020198197a3b88d11ec9a3b663fe45a7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/admin1/Desktop/LectureReminder/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/admin1/Desktop/LectureReminder/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_9b414a0614ae64353e44ec5f9d9cf20552369734.jar" />
+    </item>
+
+</items>
